@@ -1,0 +1,17 @@
+{
+	"name": "@cubitworx/html",
+	"version": "0.1.0",
+	"description": "General html manipulation functions",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cubitworx/html.git"
+	},
+	"author": {
+		"name": "Charles Louw",
+		"email": "charles.louw@gmail.com"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"underscore": "^1.8.3"
+	}
+}
